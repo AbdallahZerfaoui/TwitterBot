@@ -17,6 +17,6 @@ def main():
 
 
 if __name__ == "__main__":
-    #main()
-    tweet = build_a_tweet(top=NBR_OF_TOP_DOMAINS)
-    print(tweet)
+    main()
+    #tweet = build_a_tweet(top=NBR_OF_TOP_DOMAINS)
+    #"print(tweet)
